@@ -1,0 +1,10 @@
+
+arg\nav{
+    overflow: scroll;
+}
+.nav-item{
+    width: 85vw;
+    border: 2px solid black;
+    margin: 0 10%;
+    height: 90vh;
+}
